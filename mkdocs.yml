@@ -6,6 +6,6 @@ nav:
     - Contact us: about.md
     - Refference: refference.md
 #theme: windmill
-theme: readthedocs
-#theme:
-#  name: 'material'
+#theme: readthedocs
+theme:
+  name: 'material'
