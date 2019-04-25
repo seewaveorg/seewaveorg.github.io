@@ -1,7 +1,7 @@
 site_name: SEEWAVE
 nav:
-    - Home: index.md
-    - Asclepius: asclepius.md
+    - Home: home.md
+    - Asclepius: index.md
     - TT system: tt.md
     - Contact us: about.md
     - Refference: refference.md
