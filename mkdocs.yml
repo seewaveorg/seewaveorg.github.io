@@ -9,9 +9,9 @@ copyright: 'Copyright &copy; 2018 - 2019 SEEWAVE'
 
 theme:
   name: 'material'
-  #palette:
-    #primary: 'amber'
-    #accent: 'amber'
+  palette:
+    primary: 'Green'
+    accent: 'Red'
   #font:
     #text: 'Roboto'
     #code: 'Roboto Mono'
