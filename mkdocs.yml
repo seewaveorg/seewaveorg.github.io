@@ -2,5 +2,5 @@ site_name: Asclepius
 nav:
     - Home: index.md
     - About: about.md
-#theme: windmill
-theme: readthedocs
+theme: windmill
+#theme: readthedocs
