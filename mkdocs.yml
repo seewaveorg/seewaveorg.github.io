@@ -1,7 +1,10 @@
-site_name: Asclepius
+site_name: SEEWAVE
 nav:
     - Home: index.md
-    - About: about.md
+    - Asclepius: index.md
+    - TT system: about.md
+    - Contact up: about.md
+
 theme: windmill
 #theme: readthedocs
 #theme:
