@@ -5,7 +5,7 @@ nav:
     - TT system: tt.md
     - Contact us: about.md
     - Refference: refference.md
-theme: windmill
-#theme: readthedocs
+#theme: windmill
+theme: readthedocs
 #theme:
 #  name: 'material'
